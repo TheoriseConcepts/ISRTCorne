@@ -2,7 +2,7 @@
 
 Do you struggle with touch typing and want a useful visual reminder for your new split keyboard layout? Then you've come to the right place. Let me walk you through the method I found and adapted to print my keyboard layout onto my keycaps. 
 
-![KEYCAPS](https://github.com/theoriseconcepts/ISRTCorne/branch/main/doc/images/keycaps.jpg)
+![KEYCAPS](https://github.com/theoriseconcepts/ISRTCorne/blob/main/doc/images/keycaps.jpg)
 
 # Equipment List
 
@@ -18,11 +18,11 @@ Do you struggle with touch typing and want a useful visual reminder for your new
 1. Cut a strip off the silicone heat and then cut two squares.
 2. Use the heat resistant tape to attach them to the flat iron as shown in the picture.
 
-![FLAT-IRON](https://github.com/theoriseconcepts/ISRTCorne/branch/main/doc/images/flat-iron.jpg)
+![FLAT-IRON](https://github.com/theoriseconcepts/ISRTCorne/blob/main/doc/images/flat-iron.jpg)
 
 # Print Icons
 
-1. Open my [example sheet](https://github.com/theoriseconcepts/ISRTCorne/branch/main/doc/images/dyesub.svg) in a program like Inkscape and edit the images and paper size as you desire.
+1. Open my [example sheet](https://github.com/theoriseconcepts/ISRTCorne/blob/main/doc/images/dyesub.svg) in a program like Inkscape and edit the images and paper size as you desire.
 2. Mirror the image and either follow a guide to make your own dye sublimation printer, or order from an online service.
 3. Cut out your icons to the appropriate keycap size.
 

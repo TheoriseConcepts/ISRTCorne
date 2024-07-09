@@ -1,6 +1,6 @@
 # Firmware Guide
 
-In this section I will go through the [ZMK Instalation Guide](https://zmk.dev/docs/user-setup) in order to clarify and comment on the required steps to setup your keyboard with ZMK firmware. 
+In this section I will go through the [ZMK Installation Guide](https://zmk.dev/docs/user-setup) in order to clarify and comment on the required steps to setup your keyboard with ZMK firmware. 
 
 I'll also mention a couple of methods to edit the keymap so that you can easily get your desired layout up and running.
 
@@ -127,18 +127,18 @@ After hitting Enter or typing y, the script will create an initial config in a d
 
 # References for Keymaps
 
-- Using the default keymap or my custom [keymap](https://github.com/theoriseconcepts/ISRTCorne/branch/main/layout/corne.keymap) as a reference, open the file in an IDE such as VSCode, and edit as desired. You can find all the documentation that you might need at https://zmk.dev/docs.
-- If you prefer a more visual approach to key mapping. then I recomend this helpful [keymap editor](https://nickcoutsos.github.io/keymap-editor/) by Nick Coutsos.
+- Using the default keymap or my custom [keymap](https://github.com/theoriseconcepts/ISRTCorne/blob/main/layout/corne.keymap) as a reference, open the file in an IDE such as VSCode, and edit as desired. You can find all the documentation that you might need at https://zmk.dev/docs.
+- If you prefer a more visual approach to key mapping. then I recommend this helpful [keymap editor](https://nickcoutsos.github.io/keymap-editor/) by Nick Coutsos.
 
 # Firmware Edits
 
-- Open [build.yaml](https://github.com/theoriseconcepts/ISRTCorne/branch/main/layout/build.yaml) and to both shield lines, you need to add:
+- Open [build.yaml](https://github.com/theoriseconcepts/ISRTCorne/blob/main/layout/build.yaml) and to both shield lines, you need to add:
 
 ~~~
 nice_view_adapter nice_view
 ~~~
 
-- Now open [corne.conf](https://github.com/theoriseconcepts/ISRTCorne/branch/main/layout/corne.conf) and you can add the optional code:
+- Now open [corne.conf](https://github.com/theoriseconcepts/ISRTCorne/blob/main/layout/corne.conf) and you can add the optional code:
 
 ~~~
 # Set deep sleep to 30 minutes
@@ -164,6 +164,6 @@ Once this happens, copy the correct UF2 file (e.g. left or right), and paste it 
 
 # Wirelessly Connecting Your Keyboard
 
-You should be able to see your keyboard from the bluetooth scanning view of your device. ZMK supports multiple BLE “profiles”, which allows you to connect to and switch among multiple devices. If you don't make use of the mentioned behaviours you will have issues pairing your keyboard to other devices.
+You should be able to see your keyboard from the Bluetooth scanning view of your device. ZMK supports multiple BLE “profiles”, which allows you to connect to and switch among multiple devices. If you don't make use of the mentioned behaviours you will have issues pairing your keyboard to other devices.
 
 After flashing each half individually you can connect them together by resetting them at the same time. Within a few seconds of resetting, both halves should automatically connect to each other.

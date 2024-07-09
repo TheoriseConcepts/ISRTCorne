@@ -1,14 +1,14 @@
 # Corne Parts List and Buying Guide
 
-The parts list compiled here is based on the factors of affordability, convenience, and functionality. An attempt was made to keep the costs low while also ensuring that the components are of decent quality. Availability of UK suppliers was limited, so hopefully my recomendations prove useful.
+The parts list compiled here is based on the factors of affordability, convenience, and functionality. An attempt was made to keep the costs low while also ensuring that the components are of decent quality. Availability of UK suppliers was limited, so hopefully my recommendations prove useful.
 
 If you are aware of alternatives or improvements to my suggestions, please let me know.
 
 # The PCB
 
-Do you want to keep the costs to a minimum? Are you confident in your ability to source parts such as pcb screws, diodes, hotswap sockets, etc? Then I'd recomend using jlcpcb.com to print the corne pcb. Just upload the latest "gerbers" from [foostan/crkbd](https://github.com/foostan/crkbd/releases) onto the frontpage of jlcpcb and either stick with the default options or upgrade to lead free HASL for +1 usd. You can also consider a different colour to the default green if you prefer.
+Do you want to keep the costs to a minimum? Are you confident in your ability to source parts such as pcb screws, diodes, hotswap sockets, etc? Then I'd recommend using jlcpcb.com to print the corne pcb. Just upload the latest "gerbers" from [foostan/crkbd](https://github.com/foostan/crkbd/releases) onto the frontpage of jlcpcb and either stick with the default options or upgrade to lead free HASL for +1 usd. You can also consider a different colour to the default green if you prefer.
 
-However, if you prefer the convenience of a partial kit to help you get started, then I recomend using [42Keebs](https://42keebs.eu/shop/kits/pro-micro-based/corne-cherry-v3-hotswap-split-ergo-40-kit/?attribute_plate-type=FR4%20(PCB%20material)&attribute_pa_colour=black). This site will provide you with most of the parts needed to build this keyboard, and they also have a soldering service. For my build, I opted to buy the base kit from here with the Controller Sockets/Pins/Headers addon. You can easily find the other components cheaper elsewhere, and do the soldering yourself. 
+However, if you prefer the convenience of a partial kit to help you get started, then I recommend using [42Keebs](https://42keebs.eu/shop/kits/pro-micro-based/corne-cherry-v3-hotswap-split-ergo-40-kit/?attribute_plate-type=FR4%20(PCB%20material)&attribute_pa_colour=black). This site will provide you with most of the parts needed to build this keyboard, and they also have a soldering service. For my build, I opted to buy the base kit from here with the Controller Sockets/Pins/Headers addon. You can easily find the other components cheaper elsewhere, and do the soldering yourself. 
 
 ![42KEEBS](https://github.com/theoriseconcepts/ISRTCorne/branch/main/doc/images/42Keebs.png)
 
@@ -26,9 +26,9 @@ Base FR4 Kit includes:
 
 # The Components
 
-![COMPONENTS](https://github.com/theoriseconcepts/ISRTCorne/branch/main/doc/images/components.jpg)
+![COMPONENTS](https://github.com/theoriseconcepts/ISRTCorne/blob/main/doc/images/components.jpg)
 
-The main items you'll require not in the kit are switches, keycaps, and controllers. There are also many other extras I'd recomend to upgrade the look and design of the keyboard. Components such as the case and build tools are also important, so I shall share my recomendations for those as well. 
+The main items you'll require not in the kit are switches, keycaps, and controllers. There are also many other extras I'd recommend to upgrade the look and design of the keyboard. Components such as the case and build tools are also important, so I shall share my recommendations for those as well. 
 
 Many of the items for this build were acquired from AliExpress, so while I shall share links to the stores I used, make sure that you do your own due diligence to avoid purchasing from any suspicious places. I've had good experiences with the "Choice" options, where you get free shipping on orders > 10 usd, taking around 7-10 days to arrive in the UK.
 
@@ -40,7 +40,7 @@ Many of the items for this build were acquired from AliExpress, so while I shall
 |5 Pin Linear Switches|42 x Switches|5 pins is a must have, but otherwise, choose your favourite style of switch. I'm liking the sound and feel of the Outemu silent cream switches.|3.74/50 PCS|https://www.aliexpress.com/item/1005006270820565.html|
 |DSA Blank Keycaps|40 x 1u Keycaps, 2 x 1.5u Keycaps|Keycaps are something that you can spend a lot of time and money on. If you're looking for blank DSA keycaps like I was, then this is the best option I could find.|30/set|https://mechboards.co.uk/products/split-keyboard-dsa-blank-keycaps|
 
-Once you've acquired the above components, you're ready to build a functioning keyboard. There are however a few more components I'd recomend that can take your keyboard to the next level. 
+Once you've acquired the above components, you're ready to build a functioning keyboard. There are however a few more components I'd recommend that can take your keyboard to the next level. 
 
 |Part|Quantity|Notes|Price (£)|Link|
 |:-----:|:-----:|:-----:|:-----:|:-----:|

@@ -10,7 +10,7 @@ Do you want to keep the costs to a minimum? Are you confident in your ability to
 
 However, if you prefer the convenience of a partial kit to help you get started, then I recommend using [42Keebs](https://42keebs.eu/shop/kits/pro-micro-based/corne-cherry-v3-hotswap-split-ergo-40-kit/?attribute_plate-type=FR4%20(PCB%20material)&attribute_pa_colour=black). This site will provide you with most of the parts needed to build this keyboard, and they also have a soldering service. For my build, I opted to buy the base kit from here with the Controller Sockets/Pins/Headers addon. You can easily find the other components cheaper elsewhere, and do the soldering yourself. 
 
-![42KEEBS](https://github.com/theoriseconcepts/ISRTCorne/branch/main/doc/images/42Keebs.png)
+![42KEEBS](https://github.com/theoriseconcepts/ISRTCorne/blob/main/doc/images/42Keebs.png)
 
 Base FR4 Kit includes: 
 - 2x main PCB

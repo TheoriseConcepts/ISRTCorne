@@ -34,11 +34,13 @@ For the microcontroller, you can use the pin headers that come with it to solder
 
 Display installation will vary depending on the type of screen you choose. The board I'm using has slots for OLED screens and the nice!view. For the nice!view, start by soldering over the OLED holes on the top of the pcb so there are no open connections. Then, insert the nice!view header into the labelled slot and solder the legs in place. Next, insert the socket header and place the nice!view screen on top. Solder one of the joint, then adjust until the screen is horizontal, and solder the rest of the joints. Repeat for the other board. 
 
+![DISPLAY](https://github.com/theoriseconcepts/ISRTCorne/blob/main/doc/images/display.jpg)
+
 # Step 6: Battery
 
 To install the battery, you will need to remove the display. If you used a long header for the mcu, you will need to remove the micro controller so the battery can sit underneath. If like me you used a short header, then you can leave the mcu in place and the battery will sit on top, and under the display. The pcb has two holes at the edge labelled B+ and B- for the battery wires. I decided to solder the wires directly to the pcb, passing the wire ends through the holes on top, (red to B+ and black to B-), then applying solder to the bottom of the board. Do this for both pcbs. Let the battery rest on top of the mcu and secure it in place with some heat resistant tape.
 
-![DISPLAY](https://github.com/theoriseconcepts/ISRTCorne/blob/main/doc/images/display.jpg)
+![BATTERY](https://github.com/theoriseconcepts/ISRTCorne/blob/main/doc/images/battery.jpg)
 
 # Step 7: Switches and Keycaps
 

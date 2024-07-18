@@ -2,7 +2,7 @@
 
 A beginners foray into the world of split custom keyboards.
 
-![FINISHED-BUILD](https://github.com/theoriseconcepts/ISRTCorne/blob/main/images/finished-build.jpg)
+![FINISHED-BUILD](https://github.com/TheoriseConcepts/ISRTCorne/blob/main/images/finished-build.jpg)
 
 This keyboard was created from a desire to break away from the norm and to try new and interesting projects. Passion is born from exploring the unknown and from not being afraid to take that first step. There are many guides out there to propel you through your journey into custom keyboards, but I shall endeavour to layout my experiences here.
 
